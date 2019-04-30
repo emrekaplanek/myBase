@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Home bura!</h2>
+<h2>Home is here!</h2>
 </body>
 </html>
